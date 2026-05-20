@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Model weights (large files — store with Git LFS or link externally)
+*.pt
+*.pth
+*.onnx
+
+# Videos (large files)
+*.mp4
+*.MOV
+*.avi
+*.mkv
+
+# Dataset images (large — use Roboflow link or DVC instead)
+dataset/Find pin.yolov8/train/images/
+dataset/bowling_pins_dataset/train/
+dataset/bowling_pins_dataset/valid/
+dataset/bowling_pins_dataset/test/
+
+# YOLO run artifacts
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

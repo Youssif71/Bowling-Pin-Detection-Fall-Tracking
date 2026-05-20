@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pin']
+
+roboflow:
+  workspace: ahmeds-workspace-eywqn
+  project: ahmeds-workspace-eywqn
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/ahmeds-workspace-eywqn/ahmeds-workspace-eywqn/dataset

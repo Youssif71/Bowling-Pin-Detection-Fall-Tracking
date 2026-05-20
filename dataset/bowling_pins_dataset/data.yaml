@@ -1,0 +1,11 @@
+
+path: d:\Computer_Vision_Main project\dataset\bowling_pins_dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+
+names:
+  0: bowling-pin
