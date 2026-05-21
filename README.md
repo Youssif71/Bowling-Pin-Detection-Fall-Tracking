@@ -42,6 +42,9 @@ This pipeline fine-tunes a **YOLOv8s** model on a custom-annotated dataset of 32
 - Elapsed time and fallen pin count overlay
 - Final summary screen (2-second hold) showing total fallen count and video duration
 
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/790b3ad6-8bf7-43eb-b51b-b56196e28458" />
+
+
 ---
 
 ## 🛠️ Installation
